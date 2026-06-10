@@ -32,6 +32,6 @@ Resume-Website/
 
 Nihal Rao
 
-## Live Website
 
-Add your GitHub Pages URL here after deployment.
+
+
