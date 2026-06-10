@@ -30,7 +30,7 @@ Resume-Website/
 
 ## Author
 
-Nihal Rao
+NIHAL RAO
 
 
 
